@@ -1,4 +1,4 @@
-
+<h1>..........BINARY SEARCH..........</h1>
 ![image](https://github.com/Adlinejainsha/-binary-search/assets/138776941/434d356d-4e78-4745-bb37-5c84e28c97d6)
 
 <h1>BINARY SEARCH</h1>
